@@ -1,5 +1,4 @@
-import CardPantera from "@/components/Card";
-import Card from "@/components/Card";
+import CardPantera from "@/components/Card/cardPantera";
 import CardCrypto from "@/components/Card/cardCrypto";
 import CardDevil from "@/components/Card/cardDevil";
 import CardSonic from "@/components/Card/cardSonic";
